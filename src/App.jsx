@@ -16,6 +16,10 @@ function App() {
               author="Eduardo Daniel"
               content="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
             />
+             <Post 
+              author="Daniel Geraldo"
+              content="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            />
           </main>
       </div>
     </div>
